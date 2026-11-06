@@ -89,4 +89,4 @@ It does not include CIF structures, raw GCMC trajectories, or simulation input d
 
 ## Reuse
 
-A reuse license has not yet been assigned to this release. Licensing must be finalized before public deposit.
+This repository is licensed under the MIT License. See the LICENSE file for details.
