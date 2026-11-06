@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these data or models, please cite this research output and the associated article when available."
+title: "Metal-Organic Frameworks for Greenhouse Gas Capture: Machine Learning-Guided Screening for Simultaneous CO2 and N2O Separation from N2"
+type: dataset
+authors:
+  - family-names: Beyaz
+    given-names: Mert
+  - family-names: Aksu
+    given-names: Gökhan Önder
+  - family-names: Keskin
+    given-names: Seda
+keywords:
+  - metal-organic frameworks
+  - greenhouse gas separation
+  - nitrous oxide
+  - carbon dioxide
+  - molecular simulation
+  - machine learning
